@@ -18,7 +18,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seiichikick0404&theme=github_dark)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seiichikick0404&layout=compact&theme=dark&count_private=false&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seiichikick0404&layout=compact&theme=dark&count_private=false&hide=javascript,html,css,scss,hack,dockerfile&show_icons=true" />
+
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=seiichikick0404&theme=dark&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
