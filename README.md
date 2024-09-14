@@ -6,8 +6,9 @@
 
 
 # 🌱 Tech Stack
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,tailwind,bootstrap,figma,java,php,py,go,ruby,cpp,c,matlab,rails,aws,docker,nginx,git,github,githubactions,mysql,windows,ubuntu" />
-<br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,php,laravel,ruby,rails,go,js,ts,py,docker,aws,git,github,githubactions,mysql,ubuntu,dart,flutter,kotlin,nginx" />
+
+
 
 # 🏆 Status
 <p align="left">
