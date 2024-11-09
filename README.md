@@ -1,7 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Introduction
 - 🧑‍💻 I'm a backend software engineer with 3 years of experience, specializing in web development and cloud infrastructure.
 - 📚 Currently, I'm studying computer science.
-- 📫 How to reach me: [X - @setsu_mini01](https://x.com/setsu_mini01)
 <br>
 
 
